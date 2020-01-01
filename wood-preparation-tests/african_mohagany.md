@@ -51,3 +51,20 @@ Note: This is the backside of board section 6.
 ## Misc Notes
 - These tests don't yet include the finish.  I'm still researching what finish I want to apply.
 - Other tests I'd like to do would include using some sort of Tung/Teal oil.
+
+## Board 1 Test Detail
+
+## Board 2 Test Detail
+
+## Board 3 Test Detail
+
+## Board 4 Test Detail
+
+## Board 5 Test Detail
+
+## Board 6 Test Detail
+
+## Board 7 Test Detail
+
+## Board 8 Test Detail
+

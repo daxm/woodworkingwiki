@@ -1,6 +1,6 @@
 # African Mahogany
 
-I have 2 pieces of African Mahogany that are each about 1 foot long.  I've rounded the edges on one side so that the tests can show how they perform on edge grain.
+I have 2 pieces of African Mahogany that are each about 1 foot long.  I've rounded all the edges on one face so that the tests can show how they perform on edge grain.
 
 My goal is to evenly divide each piece of wood with painter's tape, front and back, so that I can have essentially 4 "sections" of each board to test on.
 
@@ -10,31 +10,26 @@ My tests are categorized as follows:
 * Sand only or use a finishing plane.
 
 Each "section" of the boards will be numbered (1-8).  Here are my tests by section:
-## Board Section 1
-1. Sand to a 220 grit level.
-1. Pre-seal the wood prior to wood filler and staining.
-1. Use the gunstock stain.
-
-## Board Section 2
-1. Sand to 220 grit level.
-1. Use wood filler and stain.  Then seal the wood.
-1. Use the gunstock stain.
-
-## Board Section 3
+* Board Section 1
+  1. Sand to a 220 grit level.
+  1. Pre-seal the wood prior to wood filler and staining.
+  1. Use the gunstock stain.
+* Board Section 2
+  1. Sand to 220 grit level.
+  1. Use wood filler and stain.  Then seal the wood.
+  1. Use the gunstock stain.
+* Board Section 3
 Note: This is the backside of board section 1.
-
-1. Sand to 120 grit and then use smoothing plane.
-1. Pre-seal the wood prior to wood filler and staining.
-1. Use the gunstock stain.
-
-## Board Section 4
+  1. Sand to 120 grit and then use smoothing plane.
+  1. Pre-seal the wood prior to wood filler and staining.
+  1. Use the gunstock stain.
+* Board Section 4
 Note: This is the backside of board section 2.
+  1. Sand to 120 grit and then use smoothing plane.
+  1. Use wood filler and stain.  Then seal the wood.
+  1. Use the gunstock stain.
 
-1. Sand to 120 grit and then use smoothing plane.
-1. Use wood filler and stain.  Then seal the wood.
-1. Use the gunstock stain.
-
-## Board Section 5
+ Board Section 5
 1. Sand to a 220 grit level.
 1. Pre-seal the wood prior to wood filler and staining.
 1. Use the dark mahogany stain.

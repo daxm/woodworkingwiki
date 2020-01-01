@@ -27,7 +27,7 @@ to my local big box store and bought what they had on hand.
 I'm using the "Varathane Wood Filler Classic" product for the wood filler.  I've also heard of people using sanding dust
 from their actual project as the wood filler and if I had more test boards (or patience) I could test that out too.
 
-![Wood Filler](.images/wood_filler.png)
+![Wood Filler](../.images/wood-filler.png)
 
 Since African Mahogany has an open cell structure this will leave "pores" on the surface of the wood even after sanding
 or planing.  The idea is to use the wood filler to fill in these pores prior to staining so that the whole project will
@@ -36,7 +36,7 @@ be colored the same way.
 ### Sealer
 I'm using the "Varathane Sanding Sealer" product to seal the test boards.
 
-![Sealer](.images/wood_sealer.png)
+![Sealer](../.images/wood_sealer.png)
 
 Some of the tests will seal the wood before applying the wood filler and some tests will seal the wood after the wood 
 filler and stain have been applied.  The reason for this is to test whether I want to stain the wood fibers themselves
@@ -46,9 +46,9 @@ or just the wood filler.
 I'm using the "Varathane Classic Wood Stain" in either Gunstock or Dark Walnut.  The big box store didn't have a Dark
 Mahogany so I went with the darkest brown stain I could find.
 
-![Gunstock](.images/stain_gunstock.png)
+![Gunstock](../.images/stain_gunstock.png)
 
-![Dark Walnut](.images/stain_dark-walnut.png)
+![Dark Walnut](../.images/stain_dark-walnut.png)
 
 I'm hoping the redness of the gunstock really pops.  If I like it I might do another test using some sort of orange
 colored stain, specifically in the post-sealing staining technique.  I'm thinking some speckles of color will give fun
@@ -57,7 +57,7 @@ detail to the darker, somber effect Mahogany typically conveys.
 ### Planer
 I'm using the "" smoothing plane.
 
-![Smoothing Plane](./images/smoothing-plane.png)
+![Smoothing Plane](../.images/smoothing-plane.png)
 
 I'm new to planing.  In fact this will be the first hand planing I've done... ever.  With a little research the
 suggested method of entry into the hand planing world is to get a smoothing plane and use it in lieu of, or in addition
@@ -66,7 +66,7 @@ to, sanding.
 ### Sander
 Nothing special, per se, here.  I'm using a "Festool XXX" random orbit sander.
 
-![Sander](.images/sander.png)
+![Sander](../.images/sander.png)
 
 ### Test Wood Pieces
 Each "section" of the boards will be numbered (1-8).  Here are my tests by section.

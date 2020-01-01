@@ -9,49 +9,44 @@ My tests are categorized as follows:
 * Which stain to use (testing Gunstock and Dark Mahogany stains).
 * Sand only or use a finishing plane.
 
-Each "section" of the boards will be numbered (1-8).  Here are my tests by section:
-* Board Section 1
+## Test Setup Summary
+Each "section" of the boards will be numbered (1-8).  Here are my tests by section.
+* Board Section 1:
   1. Sand to a 220 grit level.
   1. Pre-seal the wood prior to wood filler and staining.
   1. Use the gunstock stain.
-* Board Section 2
+* Board Section 2:
   1. Sand to 220 grit level.
   1. Use wood filler and stain.  Then seal the wood.
   1. Use the gunstock stain.
-* Board Section 3
+* Board Section 3:
 Note: This is the backside of board section 1.
   1. Sand to 120 grit and then use smoothing plane.
   1. Pre-seal the wood prior to wood filler and staining.
   1. Use the gunstock stain.
-* Board Section 4
+* Board Section 4:
 Note: This is the backside of board section 2.
   1. Sand to 120 grit and then use smoothing plane.
   1. Use wood filler and stain.  Then seal the wood.
   1. Use the gunstock stain.
-
- Board Section 5
-1. Sand to a 220 grit level.
-1. Pre-seal the wood prior to wood filler and staining.
-1. Use the dark mahogany stain.
-
-## Board Section 6
-1. Sand to 220 grit level.
-1. Use wood filler and stain.  Then seal the wood.
-1. Use the dark mahogany stain.
-
-## Board Section 7
+* Board Section 5:
+  1. Sand to a 220 grit level.
+  1. Pre-seal the wood prior to wood filler and staining.
+  1. Use the dark mahogany stain.
+* Board Section 6:
+  1. Sand to 220 grit level.
+  1. Use wood filler and stain.  Then seal the wood.
+  1. Use the dark mahogany stain.
+* Board Section 7:
 Note: This is the backside of board section 5.
-
-1. Sand to 120 grit and then use smoothing plane.
-1. Pre-seal the wood prior to wood filler and staining.
-1. Use the dark mahogany stain.
-
-## Board Section 8
+  1. Sand to 120 grit and then use smoothing plane.
+  1. Pre-seal the wood prior to wood filler and staining.
+  1. Use the dark mahogany stain.
+* Board Section 8:
 Note: This is the backside of board section 6.
-
-1. Sand to 120 grit and then use smoothing plane.
-1. Use wood filler and stain.  Then seal the wood.
-1. Use the dark mahogany stain.
+  1. Sand to 120 grit and then use smoothing plane.
+  1. Use wood filler and stain.  Then seal the wood.
+  1. Use the dark mahogany stain.
 
 ## Misc Notes
 - These tests don't yet include the finish.  I'm still researching what finish I want to apply.

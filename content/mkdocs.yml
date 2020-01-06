@@ -1,0 +1,6 @@
+site_name: WoodWorking Wiki
+theme: readthedocs
+markdown_extensions:
+  - toc:
+      permalink: "#"
+      baselevel: 5

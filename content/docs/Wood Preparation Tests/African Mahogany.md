@@ -70,34 +70,42 @@ Nothing special, per se, here.  I'm using a "Festool XXX" random orbit sander.
 
 ### Test Wood Pieces
 Each "section" of the boards will be numbered (1-8).  Here are my tests by section.
+
 * Board Section 1:
   1. Sand to a 220 grit level.
   1. Pre-seal the wood prior to wood filler and staining.
   1. Use the gunstock stain.
+
 * Board Section 2:
   1. Sand to 220 grit level.
   1. Use wood filler and stain.  Then seal the wood.
   1. Use the gunstock stain.
+
 * Board Section 3: (This is the backside of board section 1.)
   1. Sand to 120 grit and then use smoothing plane.
   1. Pre-seal the wood prior to wood filler and staining.
   1. Use the gunstock stain.
+
 * Board Section 4: (This is the backside of board section 2.)
   1. Sand to 120 grit and then use smoothing plane.
   1. Use wood filler and stain.  Then seal the wood.
   1. Use the gunstock stain.
+
 * Board Section 5:
   1. Sand to a 220 grit level.
   1. Pre-seal the wood prior to wood filler and staining.
   1. Use the dark walnut stain.
+
 * Board Section 6:
   1. Sand to 220 grit level.
   1. Use wood filler and stain.  Then seal the wood.
   1. Use the dark walnut stain.
+
 * Board Section 7: (This is the backside of board section 5.)
   1. Sand to 120 grit and then use smoothing plane.
   1. Pre-seal the wood prior to wood filler and staining.
   1. Use the dark walnut stain.
+
 * Board Section 8: (This is the backside of board section 6.)
   1. Sand to 120 grit and then use smoothing plane.
   1. Use wood filler and stain.  Then seal the wood.

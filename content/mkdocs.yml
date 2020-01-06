@@ -1,11 +1,11 @@
 site_name: WoodWorking Wiki
 
-#theme: readthedocs
+theme: mkdocs
 
 markdown_extensions:
   - toc:
       permalink: True
-      baselevel: 5
+      baselevel: 1
 
 extra_javascript: [extra.js]
 

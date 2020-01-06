@@ -1,5 +1,4 @@
-
-    # African Mahogany
+# African Mahogany
 
 I have 2 pieces of African Mahogany that are each about 1 foot long.  I've rounded all the edges on one face so that the
 tests can show how they perform on edge grain.

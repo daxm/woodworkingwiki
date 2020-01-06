@@ -1,6 +1,12 @@
 site_name: WoodWorking Wiki
-theme: readthedocs
+
+#theme: readthedocs
+
 markdown_extensions:
   - toc:
-      permalink: "#"
+      permalink: True
       baselevel: 5
+
+extra_javascript: [extra.js]
+
+extra_css: [extra.css]

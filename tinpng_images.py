@@ -2,8 +2,8 @@ import tinify
 import os
 
 tinify.key = "3NdxKltc9RKNQ4QKMqL769nN9KxxVbLj"
-source_dir = os.path.join(os.getcwd(), "preprocessed_images")
-dest_dir = os.path.join(os.getcwd(), "images")
+source_dir = os.path.join(os.getcwd(), "content", "docs", "images")
+dest_dir = os.path.join(os.getcwd(), "content", "docs", "dest_images")
 max_width = 1024
 max_height = 768
 max_compressions = 490
@@ -35,14 +35,21 @@ resized.to_file("thumbnail.jpg")
 compressions_this_month = tinify.compression_count
 """
 
+compression_count = tinify.compression_count
+if compression_count is None:
+    compression_count = 0
+
 for image in os.listdir(source_dir):
+    source_filename = os.path.join(source_dir, image)
+    dest_filename = os.path.join(dest_dir, image)
     compression_count = tinify.compression_count
     if max_compressions > compression_count:
-        print(f"{compression_count}/{max_compressions} compressions.")
-        source = tinify.from_file(image)
+        print(f"Processing {compression_count} of {max_compressions} compressions: "
+              f"{source_filename} --> {dest_filename}")
+        source = tinify.from_file(source_filename)
         resized = source.resize(
             method="fit",
             width=max_width,
             height=max_height
         )
-        source.to_file = os.path.join(dest_dir, image)
+        source.to_file(dest_filename)

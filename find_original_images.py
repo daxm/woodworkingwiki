@@ -11,8 +11,10 @@ def search_files(directory='.', filename=''):
     for dirpath, dirnames, files in os.walk(directory):
         for name in files:
             if name == filename:
-                shutil.copyfile(os.path.join(dirpath, name), os.path.join(dest_dir, name))
-                print(os.path.join(dirpath, name))
+                source_file = os.path.join(dirpath, name)
+                dest_file = os.path.join(dest_dir, name)
+                shutil.copyfile(source_file, dest_file)
+                print(source_file, dest_file)
 
 
 for bad_image in os.listdir(dest_dir):

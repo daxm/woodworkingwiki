@@ -35,21 +35,24 @@ resized.to_file("thumbnail.jpg")
 compressions_this_month = tinify.compression_count
 """
 
-compression_count = tinify.compression_count
-if compression_count is None:
-    compression_count = 0
-
-for image in os.listdir(source_dir):
+total_files = len(os.listdir(source_dir))
+for count, image in enumerate(os.listdir(source_dir)):
+    compression_count = tinify.compression_count
     source_filename = os.path.join(source_dir, image)
     dest_filename = os.path.join(dest_dir, image)
-    compression_count = tinify.compression_count
-    if max_compressions > compression_count:
-        print(f"Processing {compression_count} of {max_compressions} compressions: "
-              f"{source_filename} --> {dest_filename}")
+    if compression_count is None:
+        compression_count = 0
+    if "jpg" not in image.lower():
+        print(f"File is not a JPEG, skipping. {source_filename}")
+
+    elif max_compressions < compression_count:
+        print(f"Max compressions ({max_compressions}) has been reached.  Skipping {source_filename}.")
+    else:
+        print(f"{count}/{total_files}: {source_filename} --> {dest_filename}")
         source = tinify.from_file(source_filename)
         resized = source.resize(
             method="fit",
             width=max_width,
             height=max_height
         )
-        source.to_file(dest_filename)
+        resized.to_file(dest_filename)

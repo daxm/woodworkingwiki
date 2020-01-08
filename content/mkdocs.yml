@@ -1,6 +1,6 @@
 site_name: WoodWorking Wiki
 
-theme: mkdocs
+theme: readthedocs
 
 markdown_extensions:
   - toc:
